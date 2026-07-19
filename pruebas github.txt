@@ -1,3 +1,5 @@
 print("hello world")
 print ("¿how are you today?")
 print("adios")
+print("¿que vas a hacer hoy?")
+print("¡que interesante!")
